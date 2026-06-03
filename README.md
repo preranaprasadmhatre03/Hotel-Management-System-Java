@@ -1,5 +1,8 @@
 # Hotel-Management-System
 
+## Overview
+A desktop-based hotel management system application developed using Java Swing and PostgreSQL.
+
 ## Technologies Used
 - Java
 - Swing
